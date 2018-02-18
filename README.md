@@ -1,2 +1,2 @@
-# pu31jgo
-thomas
+# DefinitelyNotBot
+A Discord bot coded in Discord.JS, hosted using Heroku.
